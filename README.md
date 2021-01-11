@@ -1,13 +1,49 @@
-# ucsb-cs56-kitchen-ingredients
-Kitchen Ingredients Web App
+# Kitchen Ingredients Web App
 
 As a user, I can get a recipe and its details that I can make using the ingredients found in my kitchen.
+![Alt text](/images/demo2.gif)
 
 https://cs56-f18-kitchen-ingredients.herokuapp.com
 
-
+You can login with any google account.
 ******************************************************************************************************************************
+### Inspiration
+We wanted to make an webapp from scratch 
 
+### What it does
+Kitchen Ingredients filter out recipes based on what ingredients that you add
+
+### How we built it
+We started by connecting the database Firebase with HTML and CSS. Javascript is used to make sure there are some functions.
+
+### Challenges we ran into
+We spent the majority of our time interfacing
+
+This was the first major project we have done and we could have done more
+
+There were disagreements based on what languages to use
+
+### Accomplishments that we're proud of
+We wrote code separately and it worked when we connected everything together. We also utilized many different disciplines like databases, frontend, and backend
+
+### What we learned
+how to communicate between the frontend and database
+how to start a project from scratch
+how an agile based development works
+how to learn from each other in seperate tasks
+
+### What's next for Kitchen Ingredients
+Allow more recipes to be uploaded
+Make the frontend look better
+Filter recipes based on ingredients
+Use the database scalability
+
+
+### Built With
+HTML
+CSS
+Firebase
+******************************************************************************************************************************
 __Contributors__
       
     Max Kiss
